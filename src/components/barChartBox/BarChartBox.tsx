@@ -1,4 +1,4 @@
-// import { Link } from "react-router-dom";
+
 import { Bar, BarChart, ResponsiveContainer, Tooltip } from "recharts";
 type Props = {
   title: string;
